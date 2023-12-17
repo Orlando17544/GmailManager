@@ -90,6 +90,8 @@ def main():
   with open("emails_from_each_sender.txt", "w") as file:
       for sender, emails in senders:
           file.write(str(emails) + " emails from " + sender + "\n")
+  
+  print("The results were saved in emails_from_each_sender.txt")
 
 if __name__ == "__main__":
   main()
