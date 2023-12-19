@@ -1,5 +1,7 @@
 # Gmail Manager
 
+Gmail Manager allows you to clean all the junk mail in an easy way. First it lets you to find out which senders you receive a lot of emails and then you can easily delete all of the emails from those senders.
+
 ## Install
 
 Follow the instructions to download the file credentials.json and to install the dependencies in the following link: 
